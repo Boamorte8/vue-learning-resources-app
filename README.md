@@ -1,6 +1,6 @@
 # The Learning Resources App
 
-Project to put on practice all things that I have been learned until this moment in the course
+Project for Section 10 to put on practice all things that I have been learned in all sections before. Sections 1 - 9
 
 ## Learned things
 
