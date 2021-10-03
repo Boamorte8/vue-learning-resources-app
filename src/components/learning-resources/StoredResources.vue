@@ -10,17 +10,16 @@
 import ResourceItem from './ResourceItem';
 
 export default {
+  inject: ['resources'],
   components: {
     ResourceItem,
   },
- props: ['resources'],
 }
 </script>
 
 <style>
 ul {
   list-style: none;
-  margin: 0;
   padding: 0;
   margin: auto;
   max-width: 40rem;
